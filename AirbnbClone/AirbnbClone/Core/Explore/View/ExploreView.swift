@@ -12,6 +12,8 @@ struct ExploreView: View {
         NavigationStack {
             ScrollView {
                 LazyVStack(spacing: 32) {
+                    SearchAndFilterBar()
+                    
                     ForEach(0...10, id: \.self) { listing in
                         ListingItemView()
                     }
