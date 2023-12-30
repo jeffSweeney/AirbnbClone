@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E022091D2B3F9716007B8C9F /* DestinationSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E022091C2B3F9716007B8C9F /* DestinationSearchView.swift */; };
 		E0BC8FE42B3F1EE8002B5683 /* AirbnbCloneApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0BC8FE32B3F1EE8002B5683 /* AirbnbCloneApp.swift */; };
 		E0BC8FE62B3F1EE8002B5683 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0BC8FE52B3F1EE8002B5683 /* ContentView.swift */; };
 		E0BC8FE82B3F1EE9002B5683 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0BC8FE72B3F1EE9002B5683 /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E022091C2B3F9716007B8C9F /* DestinationSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationSearchView.swift; sourceTree = "<group>"; };
 		E0BC8FE02B3F1EE8002B5683 /* AirbnbClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AirbnbClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0BC8FE32B3F1EE8002B5683 /* AirbnbCloneApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirbnbCloneApp.swift; sourceTree = "<group>"; };
 		E0BC8FE52B3F1EE8002B5683 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -183,6 +185,7 @@
 		E0BC8FFD2B3F2243002B5683 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				E022091C2B3F9716007B8C9F /* DestinationSearchView.swift */,
 				E0BC8FFE2B3F2252002B5683 /* ExploreView.swift */,
 				E0BC90032B3F2847002B5683 /* SearchAndFilterBar.swift */,
 			);
@@ -291,6 +294,7 @@
 				E0BC90022B3F236E002B5683 /* ListingItemView.swift in Sources */,
 				E0BC900C2B3F31A9002B5683 /* RatingView.swift in Sources */,
 				E0BC8FFF2B3F2252002B5683 /* ExploreView.swift in Sources */,
+				E022091D2B3F9716007B8C9F /* DestinationSearchView.swift in Sources */,
 				E0BC900E2B3F3E66002B5683 /* ListingFeature.swift in Sources */,
 				E0BC90042B3F2847002B5683 /* SearchAndFilterBar.swift in Sources */,
 				E0BC90062B3F2D82002B5683 /* ListingDetailView.swift in Sources */,
